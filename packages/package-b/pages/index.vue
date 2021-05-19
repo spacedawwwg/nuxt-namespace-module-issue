@@ -27,7 +27,9 @@
 
 <script lang="ts">
 import Vue from 'vue'
+// This does not work
 import { HelloWorld } from '@testname/package-a/lib'
+// This works
 // import { HelloWorld } from '~/node_modules/@testname/package-a/lib'
 
 export default Vue.extend({

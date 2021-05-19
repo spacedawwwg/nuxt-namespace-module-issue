@@ -1,3 +1,7 @@
+import { HelloWorld } from '@testname/package-a/lib'
+
+console.log('This works:', HelloWorld())
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
