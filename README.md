@@ -1,0 +1,1 @@
+# nuxt-namespace-module-issue
