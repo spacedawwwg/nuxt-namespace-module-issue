@@ -1,0 +1,29 @@
+{
+  "name": "@testname/package-a",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "homepage": "https://github.com/spacedawwwg/nuxt-namespace-module-issue#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacedawwwg/nuxt-namespace-module-issue.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/spacedawwwg/nuxt-namespace-module-issue/issues"
+  },
+  "devDependencies": {
+    "typescript": "4.2.4"
+  }
+}
