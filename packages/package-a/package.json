@@ -1,6 +1,7 @@
 {
   "name": "@testname/package-a",
   "version": "0.0.0",
+  "private": true,
   "description": "> TODO: description",
   "homepage": "https://github.com/spacedawwwg/nuxt-namespace-module-issue#readme",
   "license": "ISC",
